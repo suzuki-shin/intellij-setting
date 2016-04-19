@@ -1,4 +1,10 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
+<keymap version="1" name="shin-keymap" parent="Emacs">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift alt s" />
