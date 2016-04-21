@@ -9,6 +9,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
   <action id="CopyElement" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta w" />
