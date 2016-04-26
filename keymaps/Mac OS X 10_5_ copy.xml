@@ -55,6 +55,7 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift meta g" />
     <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -63,5 +64,6 @@
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="Images.Thumbnails.Hide" />
+  <action id="Run" />
   <action id="StepOver" />
 </keymap>
