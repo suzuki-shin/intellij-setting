@@ -12,8 +12,10 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="CloseContent" />
+  <action id="CopyElement" />
   <action id="Debug" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
