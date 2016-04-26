@@ -44,6 +44,11 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="ExportToTextFile" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -64,6 +69,7 @@
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="Images.Thumbnails.Hide" />
+  <action id="OverrideMethods" />
   <action id="Run" />
   <action id="StepOver" />
 </keymap>
