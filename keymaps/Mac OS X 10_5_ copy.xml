@@ -7,6 +7,13 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="CloseContent" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -44,4 +51,12 @@
     <keyboard-shortcut first-keystroke="shift meta g" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="Images.Thumbnails.Hide" />
+  <action id="StepOver" />
 </keymap>
