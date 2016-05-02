@@ -90,6 +90,9 @@
   <action id="Images.Thumbnails.Hide" />
   <action id="OverrideMethods" />
   <action id="Run" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="StepOver" />
